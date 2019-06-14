@@ -18,6 +18,7 @@ module.exports = {
         icon: `src/images/tailwind-icon.png`
       }
     },
+    `gatsby-plugin-offline`,
     `gatsby-plugin-postcss`,
     {
       resolve: "gatsby-plugin-purgecss",
